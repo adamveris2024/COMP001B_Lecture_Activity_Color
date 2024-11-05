@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(red, blue);
+    width: 75%;
+}
+
+.main_header {
+    text-align: center;
+}
+
+.nav_links {
+    float: left;
+    width: 25%;
+}
+
+.section_float {
+    float: right;
+    width: 75%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+footer {
+    clear: both;
+}
